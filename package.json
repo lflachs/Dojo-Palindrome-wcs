@@ -1,0 +1,17 @@
+{
+  "name": "05-dojo-palindrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "palindrome.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
